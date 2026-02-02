@@ -1,0 +1,16 @@
+Machine Learning Overview
+
+Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed to perform specific tasks, machine learning systems improve their performance over time as they are exposed to more data. Key concepts in machine learning include:
+Types of Machine Learning:
+1. Supervised Learning: The model is trained on labeled data, where the input-output pairs are provided. The goal is to learn a mapping from inputs to outputs.
+2. Unsupervised Learning: The model is trained on unlabeled data, where the goal is to find patterns or structures within the data.
+3. Reinforcement Learning: The model learns by interacting with an environment and receiving feedback in the form of rewards or penalties.
+Common Algorithms:
+- Linear Regression
+- Decision Trees
+- Support Vector Machines (SVM)
+- Neural Networks
+- K-Means Clustering
+Applications:   
+Machine learning is used in various applications, including image and speech recognition, natural language processing, recommendation systems, fraud detection, and autonomous vehicles.    
+Overall, machine learning plays a crucial role in enabling computers to analyze and interpret complex data, leading to advancements in various fields and industries.

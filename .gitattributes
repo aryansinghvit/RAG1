@@ -1,0 +1,22 @@
+# Recommended .gitattributes to normalize line endings and avoid noisy diffs
+# Treat files as text by default when possible
+* text=auto
+
+# Force LF for common source files (useful for Python projects)
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+
+# Treat Jupyter notebooks and other binary assets as binary to avoid spurious diffs
+*.ipynb binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# End of file
